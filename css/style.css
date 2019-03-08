@@ -1,0 +1,207 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+}
+
+.first {
+    background-color: #dd88aa;
+    height: 100%;
+    width: 100%;
+
+
+}
+
+
+.sec {
+    background-color: #550000;
+    height: 20%;
+    width: 20%;
+    position: absolute;
+    display: inline-block;
+
+}
+
+.third {
+    background-color: #550000;
+    height: 20%;
+    width: 20%;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    display: inline-block;
+
+}
+
+.first1 {
+    background-color: #000000;
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+}
+
+.sec1 {
+    background-color: #550000;
+    height: 60%;
+    width: 60%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    margin: auto;
+    position: absolute;
+
+}
+
+.in1 {
+    background-color: #221144;
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+    position: relative;
+}
+
+.in11 {
+    background-color: chartreuse;
+    height: 20%;
+    width: 20%;
+
+
+    position: absolute;
+
+}
+
+.in12 {
+    background-color: chartreuse;
+    height: 20%;
+    width: 20%;
+    top: 0;
+    right: 0;
+    position: absolute;
+
+}
+
+.in13 {
+    background-color: chartreuse;
+    height: 20%;
+    width: 20%;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+
+}
+
+.in14 {
+    background-color: chartreuse;
+    height: 20%;
+    width: 20%;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+
+}
+
+.in2 {
+    background-color: #114466;
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+    position: relative;
+
+}
+
+.in21 {
+    background-color: crimson;
+    height: 20%;
+    width: 20%;
+
+    position: absolute;
+
+}
+
+.in22 {
+    background-color: crimson;
+    height: 20%;
+    width: 20%;
+    top: 0;
+    right: 0;
+
+    position: absolute;
+
+}
+
+.in23 {
+    background-color: crimson;
+    height: 20%;
+    width: 20%;
+    bottom: 0;
+    right: 0;
+
+    position: absolute;
+
+}
+
+.in24 {
+    background-color: crimson;
+    height: 20%;
+    width: 20%;
+    bottom: 0;
+    left: 0;
+
+    position: absolute;
+
+}
+
+.div3 {
+    background-color: green;
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+}
+.div31 {
+    background-color: black;
+    height: 20%;
+    width: 20%;
+    top: 20%;
+    left: 40%;
+    display: inline-block;
+    position: absolute;
+
+}
+.div32 {
+    background-color: crimson;
+    height: 20%;
+    width: 20%;
+    top: 40%;
+    right: 20%;
+    bottom: 0;
+    
+    display: inline-block;
+    position: absolute;
+
+}
+.div33 {
+    background-color: crimson;
+    height: 20%;
+    width: 20%;
+    top: 40%;
+    left: 20%;
+    bottom: 0;
+    
+    display: inline-block;
+    position: absolute;
+
+}
+.div34 {
+    background-color: black;
+    height: 20%;
+    width: 20%;
+    bottom: 20%;
+    left: 40%;
+    display: inline-block;
+    position: absolute;
+
+}
